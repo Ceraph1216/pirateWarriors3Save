@@ -1,0 +1,1 @@
+place the OP3WIN0000.dat file in the directory: Documents\One Piece Pirate Warriors 3\SAVEDATA
