@@ -1,8 +1,5 @@
 crew level
-brook
 jimbei
-ivankov
-mihawk
 perona
 garp
 enel
@@ -19,7 +16,6 @@ strong enemy
 nami
 sanji
 teach
-akainu
 fujitora
 lucci
 magellean
