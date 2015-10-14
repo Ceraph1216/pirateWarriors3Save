@@ -1,7 +1,6 @@
 crew level
 jimbei
 perona
-garp
 enel
 smoker
 kuzan
@@ -12,15 +11,46 @@ magellean
 tashigi
 caesar
 
+(non-coins)
+mr 3
+doflamingo
+crocodile
+akainu
+moria
+laphan
+kaku
+sentomaru
+pacifista
+alvida
+wyper
+hody
+coby
+don krieg
+arlong
+hatchan
+wapol
+jabra
+blueno
+jozu
+vista
+morgan
+kuro
+mr 1
+bellamy
+vergo
+money
+burgess
+minotaurus
+hannyabal
+
 strong enemy
 nami
 sanji
-teach
+teach 	
 fujitora
 lucci
 magellean
 crocodile
-doflamingo
 
 bounty
 galley-la
