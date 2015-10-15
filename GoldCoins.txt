@@ -1,9 +1,28 @@
-crew level
+STRONG ENEMY
+nami
+sanji
+teach 	
+fujitora
+lucci
+magellean
+crocodile
+
+BOUNTY
+galley-la
+new world robins mark
+new world frankys mark
+new world brooks mark
+g5's mark
+chopper's hat
+black kabuto
+serpent
+endless vearth
+
+CREW LEVEL
 jimbei
 perona
 enel
 smoker
-kuzan
 kizaru
 lucci
 kuma
@@ -11,7 +30,7 @@ magellean
 tashigi
 caesar
 
-(non-coins)
+(NON-COINS)
 mr 3
 doflamingo
 crocodile
@@ -42,23 +61,3 @@ money
 burgess
 minotaurus
 hannyabal
-
-strong enemy
-nami
-sanji
-teach 	
-fujitora
-lucci
-magellean
-crocodile
-
-bounty
-galley-la
-new world robins mark
-new world frankys mark
-new world brooks mark
-g5's mark
-chopper's hat
-black kabuto
-serpent
-endless vearth
