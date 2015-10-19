@@ -1,21 +1,14 @@
 STRONG ENEMY
-fujitora
 magellean
 crocodile
 
 BOUNTY
 galley-la
-new world robins mark
 new world brooks mark
-g5's mark
-serpent
 
 CREW LEVEL
-smoker
 kizaru
 kuma
-magellean
-tashigi
 caesar
 
 (NON-COINS)
