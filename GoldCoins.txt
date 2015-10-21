@@ -1,9 +1,7 @@
 STRONG ENEMY
 magellean
-crocodile
 
 BOUNTY
-galley-la
 new world brooks mark
 
 CREW LEVEL
