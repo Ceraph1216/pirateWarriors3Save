@@ -1,18 +1,5 @@
-STRONG ENEMY
-magellean
-
-BOUNTY
-new world brooks mark
-
-CREW LEVEL
-kizaru
-kuma
-caesar
-
 (NON-COINS)
 mr 3
-crocodile
-akainu
 moria
 laphan
 kaku
