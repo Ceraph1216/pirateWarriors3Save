@@ -1,6 +1,5 @@
 (NON-COINS)
 mr 3
-moria
 laphan
 kaku
 sentomaru
@@ -22,7 +21,6 @@ kuro
 mr 1
 bellamy
 vergo
-money
-burgess
+monet
 minotaurus
 hannyabal
